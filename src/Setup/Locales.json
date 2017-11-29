@@ -1,0 +1,1001 @@
+[{
+  "Land": "Afghanistan",
+  "Adjektiv": "afghanisch",
+  "Einwohner": ["der Afghane", " die Afghanin"],
+  "Code": "AF"
+}, {
+  "Land": "Ägypten",
+  "Adjektiv": "ägyptisch",
+  "Einwohner": ["der Ägypter", " die Ägypterin"],
+  "Code": "EG"
+}, {
+  "Land": "Albanien",
+  "Adjektiv": "albanisch",
+  "Einwohner": ["der Albaner/Albanier", " die Albanerin/Albanierin"],
+  "Code": "AL"
+}, {
+  "Land": "Algerien",
+  "Adjektiv": "algerisch",
+  "Einwohner": ["der Algerier", " die Algerierin"],
+  "Code": "DZ"
+}, {
+  "Land": "Andorra",
+  "Adjektiv": "andorranisch",
+  "Einwohner": ["der Andorraner", " die Andorranerin"],
+  "Code": "AD"
+}, {
+  "Land": "Angola",
+  "Adjektiv": "angolanisch",
+  "Einwohner": ["der Angolaner", " die Angolanerin"],
+  "Code": "AO"
+}, {
+  "Land": "Antigua und Barbuda",
+  "Adjektiv": "antiguanisch",
+  "Einwohner": ["der Antiguaner", " die Antiguanerin"],
+  "Code": "AG"
+}, {
+  "Land": "Äquatorialguinea",
+  "Adjektiv": "äquatorialguineisch",
+  "Einwohner": ["der Äquatorialguineer", " die Äquatorialguineerin"],
+  "Code": "GQ"
+}, {
+  "Land": "Argentinien",
+  "Adjektiv": "argentinisch",
+  "Einwohner": ["der Argentinier", " die Argentinierin"],
+  "Code": "AR"
+}, {
+  "Land": "Armenien",
+  "Adjektiv": "armenisch",
+  "Einwohner": ["der Armenier", " die Armenierin"],
+  "Code": "AM"
+}, {
+  "Land": "Aserbaidschan",
+  "Adjektiv": "aserbaidschanisch",
+  "Einwohner": ["der Aserbaidschaner", " die Aserbaidschanerin"],
+  "Code": "AZ"
+}, {
+  "Land": "Äthiopien",
+  "Adjektiv": "äthiopisch",
+  "Einwohner": ["der Äthiopier", " die Äthiopierin"],
+  "Code": "ET"
+}, {
+  "Land": "Australien",
+  "Adjektiv": "australisch",
+  "Einwohner": ["der Australier", " die Australierin"],
+  "Code": "AU"
+}, {
+  "Land": "Bahamas (pl)",
+  "Adjektiv": "bahamaisch",
+  "Einwohner": ["der Bahamaer", " die Bahamaerin"],
+  "Code": "BS"
+}, {
+  "Land": "Bahrain",
+  "Adjektiv": "bahrainisch",
+  "Einwohner": ["der Bahrainer", " die Bahrainerin"],
+  "Code": "BH"
+}, {
+  "Land": "Bangladesch",
+  "Adjektiv": "bangladeschisch",
+  "Einwohner": ["der Bangladescher", " die Bangladescherin"],
+  "Code": "BD"
+}, {
+  "Land": "Barbados",
+  "Adjektiv": "barbadisch",
+  "Einwohner": ["der Barbadier", " die Barbadierin"],
+  "Code": "BB"
+}, {
+  "Land": "Belgien",
+  "Adjektiv": "belgisch",
+  "Einwohner": ["der Belgier", " die Belgierin"],
+  "Code": "BE"
+}, {
+  "Land": "Belize",
+  "Adjektiv": "belizisch",
+  "Einwohner": ["der Belizer", " die Belizerin"],
+  "Code": "BZ"
+}, {
+  "Land": "Benin",
+  "Adjektiv": "beninisch",
+  "Einwohner": ["der Beniner", " die Beninerin"],
+  "Code": "BJ"
+}, {
+  "Land": "Bhutan",
+  "Adjektiv": "bhutanisch",
+  "Einwohner": ["der Bhutaner", " die Bhutanerin"],
+  "Code": "BT"
+}, {
+  "Land": "Bolivien",
+  "Adjektiv": "bolivianisch",
+  "Einwohner": ["der Bolivianer", " die Bolivianerin"],
+  "Code": "BO"
+}, {
+  "Land": "Bosnien und Herzegowina",
+  "Adjektiv": "bosnischherzegowinisch",
+  "Einwohner": ["der Bosnier", " die Bosnierinder Herzegowiner", " die Herzegowinerin"],
+  "Code": "BA"
+}, {
+  "Land": "Botsuana",
+  "Adjektiv": "botsuanisch",
+  "Einwohner": ["der Botsuaner", " die Botsuanerin"],
+  "Code": "BW"
+}, {
+  "Land": "Brasilien",
+  "Adjektiv": "brasilianisch",
+  "Einwohner": ["der Brasilianer", " die Brasilianerin"],
+  "Code": "BR"
+}, {
+  "Land": "Brunei",
+  "Adjektiv": "bruneiisch",
+  "Einwohner": ["der Bruneier", " die Bruneierin"],
+  "Code": "BN"
+}, {
+  "Land": "Bulgarien",
+  "Adjektiv": "bulgarisch",
+  "Einwohner": ["der Bulgare", " die Bulgarin"],
+  "Code": "BG"
+}, {
+  "Land": "Burkina Faso",
+  "Adjektiv": "burkinisch",
+  "Einwohner": ["der Burkiner", " die Burkinerin auch: der/die Burkinabe"],
+  "Code": "BF"
+}, {
+  "Land": "Burundi",
+  "Adjektiv": "burundisch",
+  "Einwohner": ["der Burunder", " die Burunderinauch: Burundier(in)"],
+  "Code": "BI"
+}, {
+  "Land": "Chile",
+  "Adjektiv": "chilenisch",
+  "Einwohner": ["der Chilene", " die Chilenin"],
+  "Code": "CL"
+}, {
+  "Land": "China",
+  "Adjektiv": "chinesisch",
+  "Einwohner": ["der Chinese", " die Chinesin"],
+  "Code": "CN"
+}, {
+  "Land": "Costa Rica",
+  "Adjektiv": "costa-ricanisch",
+  "Einwohner": ["der Costa Ricaner", " die Costa Ricanerinauch: Costa-Ricaner(in)"],
+  "Code": "CR"
+}, {
+  "Land": "Dänemark",
+  "Adjektiv": "dänisch",
+  "Einwohner": ["der Däne", " die Dänin"],
+  "Code": "DK"
+}, {
+  "Land": "Demokratische Republik Kongo (f)(auch: Kongo-Kinshasa oder der Kongo)",
+  "Adjektiv": "kongolesisch auch: … der Demokratischen Republik Kongo",
+  "Einwohner": ["der Kongolese", " die Kongolesin"],
+  "Code": "CD"
+}, {
+  "Land": "Deutschland",
+  "Adjektiv": "deutsch",
+  "Einwohner": ["der Deutsche", " die Deutsche"],
+  "Code": "DE"
+}, {
+  "Land": "Dominica",
+  "Adjektiv": "dominicanisch",
+  "Einwohner": ["der Dominicaner", " die Dominicanerin"],
+  "Code": "DM"
+}, {
+  "Land": "Dominikanische Republik (f)",
+  "Adjektiv": "dominikanisch",
+  "Einwohner": ["der Dominikaner", " die Dominikanerin"],
+  "Code": "DO"
+}, {
+  "Land": "Dschibuti",
+  "Adjektiv": "dschibutisch",
+  "Einwohner": ["der Dschibutier", " die Dschibutierin"],
+  "Code": "DJ"
+}, {
+  "Land": "Ecuador",
+  "Adjektiv": "ecuadorianisch",
+  "Einwohner": ["der Ecuadorianer", " die Ecuadorianerin"],
+  "Code": "EC"
+}, {
+  "Land": "El Salvador",
+  "Adjektiv": "salvadorianisch",
+  "Einwohner": ["der Salvadorianer", " die Salvadorianerin"],
+  "Code": "SV"
+}, {
+  "Land": "Elfenbeinküste (f)amtlich: Côte d'Ivoire",
+  "Adjektiv": "ivorisch",
+  "Einwohner": ["der Ivorer", " die Ivorerin"],
+  "Code": "CI"
+}, {
+  "Land": "Eritrea",
+  "Adjektiv": "eritreisch",
+  "Einwohner": ["der Eritreer", " die Eritreerin"],
+  "Code": "ER"
+}, {
+  "Land": "Estland",
+  "Adjektiv": "estnischauch: estländisch",
+  "Einwohner": ["der Este", " die Estinauch: Estländer(in)"],
+  "Code": "EE"
+}, {
+  "Land": "Färöer-Inseln (pl)",
+  "Adjektiv": "–",
+  "Einwohner": ["–"],
+  "Code": "FO"
+}, {
+  "Land": "Fidschi",
+  "Adjektiv": "fidschianisch",
+  "Einwohner": ["der Fidschianer", " die Fidschianerin"],
+  "Code": "FJ"
+}, {
+  "Land": "Finnland",
+  "Adjektiv": "finnisch",
+  "Einwohner": ["der Finne", " die Finnin"],
+  "Code": "FI"
+}, {
+  "Land": "Frankreich",
+  "Adjektiv": "französisch",
+  "Einwohner": ["der Franzose", " die Französin"],
+  "Code": "FR"
+}, {
+  "Land": "Gabun",
+  "Adjektiv": "gabunisch",
+  "Einwohner": ["der Gabuner", " die Gabunerin"],
+  "Code": "GA"
+}, {
+  "Land": "Gambia",
+  "Adjektiv": "gambisch",
+  "Einwohner": ["der Gambier", " die Gambierin"],
+  "Code": "GM"
+}, {
+  "Land": "Georgien",
+  "Adjektiv": "georgisch",
+  "Einwohner": ["der Georgier", " die Georgierin"],
+  "Code": "GE"
+}, {
+  "Land": "Ghana",
+  "Adjektiv": "ghanaisch",
+  "Einwohner": ["der Ghanaer", " die Ghanaerin"],
+  "Code": "GH"
+}, {
+  "Land": "Grenada",
+  "Adjektiv": "grenadischauch: Grenader …",
+  "Einwohner": ["der Grenader", " die Grenaderinauch: Grenadier(in)"],
+  "Code": "GD"
+}, {
+  "Land": "Griechenland",
+  "Adjektiv": "griechisch",
+  "Einwohner": ["der Grieche", " die Griechin"],
+  "Code": "GR"
+}, {
+  "Land": "Grönland",
+  "Adjektiv": "grönländisch",
+  "Einwohner": ["der Grönländer", " die Grönländerin"],
+  "Code": "GL"
+}, {
+  "Land": "Großbritannienoffiziell: Vereinigtes Königreich (Großbritannien und Nordirland)",
+  "Adjektiv": "britisch",
+  "Einwohner": ["der Brite", " die Britin"],
+  "Code": "GB"
+}, {
+  "Land": "Guatemala",
+  "Adjektiv": "guatemaltekisch",
+  "Einwohner": ["der Guatemalteke", " die Guatemaltekin"],
+  "Code": "GT"
+}, {
+  "Land": "Guinea",
+  "Adjektiv": "guineisch",
+  "Einwohner": ["der Guineer", " die Guineerin"],
+  "Code": "GN"
+}, {
+  "Land": "Guinea-Bissau",
+  "Adjektiv": "guinea-bissauisch",
+  "Einwohner": ["der Guinea-Bissauer", " die Guinea-Bissauerin"],
+  "Code": "GW"
+}, {
+  "Land": "Guyana",
+  "Adjektiv": "guyanisch",
+  "Einwohner": ["der Guyaner", " die Guyanerin"],
+  "Code": "GY"
+}, {
+  "Land": "Haiti",
+  "Adjektiv": "haitianisch",
+  "Einwohner": ["der Haitianer", " die Haitinaerin"],
+  "Code": "HT"
+}, {
+  "Land": "Honduras",
+  "Adjektiv": "honduranisch",
+  "Einwohner": ["der Honduraner", " die Honduranerin"],
+  "Code": "HN"
+}, {
+  "Land": "Hongkong",
+  "Adjektiv": "–",
+  "Einwohner": ["der Honkonger", " die Honkongerin"],
+  "Code": "HK"
+}, {
+  "Land": "Indien",
+  "Adjektiv": "indisch",
+  "Einwohner": ["der Inder", " die Inderin"],
+  "Code": "IN"
+}, {
+  "Land": "Indonesien",
+  "Adjektiv": "indonesisch",
+  "Einwohner": ["der Indonesier", " die Indonesierin"],
+  "Code": "ID"
+}, {
+  "Land": "Irak (m)",
+  "Adjektiv": "irakisch",
+  "Einwohner": ["der Iraker", " die Irakerin"],
+  "Code": "HK"
+}, {
+  "Land": "Iran (-, m)",
+  "Adjektiv": "iranisch",
+  "Einwohner": ["der Iraner", " die Iranerin"],
+  "Code": "IR"
+}, {
+  "Land": "Irland",
+  "Adjektiv": "irisch",
+  "Einwohner": ["der Ire", " die Irin"],
+  "Code": "IE"
+}, {
+  "Land": "Island",
+  "Adjektiv": "isländisch",
+  "Einwohner": ["der Isländer", " die Isländerin"],
+  "Code": "IS"
+}, {
+  "Land": "Israel",
+  "Adjektiv": "israelisch",
+  "Einwohner": ["der/die Israeliweiblich auch: die Israelin"],
+  "Code": "IL"
+}, {
+  "Land": "Italien",
+  "Adjektiv": "italienisch",
+  "Einwohner": ["der Italiener", " die Italienerin"],
+  "Code": "IT"
+}, {
+  "Land": "Jamaika",
+  "Adjektiv": "jamaikanisch",
+  "Einwohner": ["der Jamaikaner", " die Jamaikanerin"],
+  "Code": "JM"
+}, {
+  "Land": "Japan",
+  "Adjektiv": "japanisch",
+  "Einwohner": ["der Japaner", " die Japanerin"],
+  "Code": "JP"
+}, {
+  "Land": "Jemen",
+  "Adjektiv": "jemenitisch",
+  "Einwohner": ["der Jemenit", " die Jemenitin"],
+  "Code": "YE"
+}, {
+  "Land": "Jordanien",
+  "Adjektiv": "jordanisch",
+  "Einwohner": ["der Jordanier", " die Jordanierin"],
+  "Code": "JO"
+}, {
+  "Land": "Kambodscha",
+  "Adjektiv": "kambodschanisch",
+  "Einwohner": ["der Kambodschaner", " die Kambodschanerin"],
+  "Code": "KH"
+}, {
+  "Land": "Kamerun",
+  "Adjektiv": "kamerunisch",
+  "Einwohner": ["der Kameruner", " die Kamerunerin"],
+  "Code": "CM"
+}, {
+  "Land": "Kanada",
+  "Adjektiv": "kanadisch",
+  "Einwohner": ["der Kanadier", " die Kanadierin"],
+  "Code": "CA"
+}, {
+  "Land": "Kap Verde",
+  "Adjektiv": "kapverdisch auch: kap-verdisch",
+  "Einwohner": ["der Kapverdier", " die Kapverdierin auch: Kap Verdier(in)", " Kap-Verdier(in)"],
+  "Code": "CV"
+}, {
+  "Land": "Kasachstan",
+  "Adjektiv": "kasachisch",
+  "Einwohner": ["der Kasache", " die Kasachin"],
+  "Code": "KZ"
+}, {
+  "Land": "Katar",
+  "Adjektiv": "katarisch",
+  "Einwohner": ["der Katarer", " die Katarerin"],
+  "Code": "QA"
+}, {
+  "Land": "Kenia",
+  "Adjektiv": "kenianisch",
+  "Einwohner": ["der Kenianer", " die Kenianerin"],
+  "Code": "KE"
+}, {
+  "Land": "Kirgisistan",
+  "Adjektiv": "kirgisisch",
+  "Einwohner": ["der Kirgise", " die Kirgisin"],
+  "Code": "KG"
+}, {
+  "Land": "Kiribati",
+  "Adjektiv": "kiribatisch",
+  "Einwohner": ["der Kiribatier", " die Kiribatierin"],
+  "Code": "KI"
+}, {
+  "Land": "Kolumbien",
+  "Adjektiv": "kolumbianisch",
+  "Einwohner": ["der Kolumbianer", " die Kolumbianerin"],
+  "Code": "CO"
+}, {
+  "Land": "Komoren (pl)",
+  "Adjektiv": "komorisch",
+  "Einwohner": ["der Komorer", " die Komorerin"],
+  "Code": "KM"
+}, {
+  "Land": "Kosovo (-, m, n)",
+  "Adjektiv": "kosovarisch",
+  "Einwohner": ["der Kosovare", " die Kosovarin"],
+  "Code": "XK"
+}, {
+  "Land": "Kroatien",
+  "Adjektiv": "kroatisch",
+  "Einwohner": ["der Kroate", " die Kroatin"],
+  "Code": "HR"
+}, {
+  "Land": "Kuba",
+  "Adjektiv": "kubanisch",
+  "Einwohner": ["der Kubaner", " die Kubanerin"],
+  "Code": "CU"
+}, {
+  "Land": "Kuwait",
+  "Adjektiv": "kuwaitisch",
+  "Einwohner": ["der Kuwaiter", " die Kuwaiterin"],
+  "Code": "KW"
+}, {
+  "Land": "Laos",
+  "Adjektiv": "laotisch",
+  "Einwohner": ["der Laote", " die Laotin"],
+  "Code": "LA"
+}, {
+  "Land": "Lesotho",
+  "Adjektiv": "lesothisch",
+  "Einwohner": ["der Lesother", " die Lesotherin"],
+  "Code": "LS"
+}, {
+  "Land": "Lettland",
+  "Adjektiv": "lettisch",
+  "Einwohner": ["der Lette", " die Lettin"],
+  "Code": "LV"
+}, {
+  "Land": "Libanon (m)",
+  "Adjektiv": "libanesisch",
+  "Einwohner": ["der Libanese", " die Libanesin"],
+  "Code": "LB"
+}, {
+  "Land": "Liberia",
+  "Adjektiv": "liberianisch",
+  "Einwohner": ["der Liberianer", " die Liberianerin"],
+  "Code": "LR"
+}, {
+  "Land": "Libyen",
+  "Adjektiv": "libysch",
+  "Einwohner": ["der Libyer", " die Libyerin"],
+  "Code": "LY"
+}, {
+  "Land": "Liechtenstein",
+  "Adjektiv": "liechtensteinisch",
+  "Einwohner": ["der Liechtensteiner", " die Liechtensteinerin"],
+  "Code": "LI"
+}, {
+  "Land": "Litauen",
+  "Adjektiv": "litauisch",
+  "Einwohner": ["der Litauer", " die Litauerin"],
+  "Code": "LT"
+}, {
+  "Land": "Luxemburg",
+  "Adjektiv": "luxemburgisch",
+  "Einwohner": ["der Luxemburger", " die Luxemburgerin"],
+  "Code": "LU"
+}, {
+  "Land": "Macau",
+  "Adjektiv": "–",
+  "Einwohner": ["–"],
+  "Code": "MO"
+}, {
+  "Land": "Madagaskar",
+  "Adjektiv": "madagassischseltener auch: madegassisch",
+  "Einwohner": ["der Madagasse", " die Madagassinseltener auch: Madegasse"],
+  "Code": "MG"
+}, {
+  "Land": "Malawi",
+  "Adjektiv": "malawisch",
+  "Einwohner": ["der Malawier", " die Malawierin"],
+  "Code": "MW"
+}, {
+  "Land": "Malaysia",
+  "Adjektiv": "malaysisch",
+  "Einwohner": ["der Malaysier", " die Malaysierin"],
+  "Code": "MY"
+}, {
+  "Land": "Malediven (pl)",
+  "Adjektiv": "maledivisch",
+  "Einwohner": ["der Malediver", " die Malediverin"],
+  "Code": "MV"
+}, {
+  "Land": "Mali",
+  "Adjektiv": "malisch",
+  "Einwohner": ["der Malier", " die Malierin"],
+  "Code": "ML"
+}, {
+  "Land": "Malta",
+  "Adjektiv": "maltesisch",
+  "Einwohner": ["der Malteser", " die Malteserin"],
+  "Code": "MT"
+}, {
+  "Land": "Marokko",
+  "Adjektiv": "marokkanisch",
+  "Einwohner": ["der Marokkaner", " die Marokkanerin"],
+  "Code": "MA"
+}, {
+  "Land": "Marshallinseln (pl)",
+  "Adjektiv": "marshallisch",
+  "Einwohner": ["der Marshaller", " die Marshallerin"],
+  "Code": "MH"
+}, {
+  "Land": "Mauretanien",
+  "Adjektiv": "mauretanisch",
+  "Einwohner": ["der Mauretanier", " die Mauretanierin"],
+  "Code": "MR"
+}, {
+  "Land": "Mauritius",
+  "Adjektiv": "mauritisch",
+  "Einwohner": ["der Mauritier", " die Mauritierin"],
+  "Code": "MU"
+}, {
+  "Land": "Mazedonien",
+  "Adjektiv": "mazedonisch",
+  "Einwohner": ["der Mazedonier", " die Mazedonierin"],
+  "Code": "MK"
+}, {
+  "Land": "Mexiko",
+  "Adjektiv": "mexikanisch",
+  "Einwohner": ["der Mexikaner", " die Mexikanerin"],
+  "Code": "MX"
+}, {
+  "Land": "Mikronesien",
+  "Adjektiv": "mikronesisch",
+  "Einwohner": ["der Mikronesier", " die Mikronesierin"],
+  "Code": "FM"
+}, {
+  "Land": "Moldauauch: Moldawien, Schweiz: Moldova",
+  "Adjektiv": "moldauisch",
+  "Einwohner": ["der Moldauer", " die Moldauerin"],
+  "Code": "MD"
+}, {
+  "Land": "Monaco",
+  "Adjektiv": "monegassisch",
+  "Einwohner": ["der Monegasse", " die Monegassin"],
+  "Code": "MC"
+}, {
+  "Land": "Mongolei (f)",
+  "Adjektiv": "mongolisch",
+  "Einwohner": ["der Mongole", " die Mongolin"],
+  "Code": "MN"
+}, {
+  "Land": "Montenegro",
+  "Adjektiv": "montenegrinisch",
+  "Einwohner": ["der Montenegriner", " die Montenegrinerin"],
+  "Code": "ME"
+}, {
+  "Land": "Mosambik",
+  "Adjektiv": "mosambikanisch",
+  "Einwohner": ["der Mosambikaner", " die Mosambikanerin"],
+  "Code": "MZ"
+}, {
+  "Land": "Myanmar",
+  "Adjektiv": "myanmarisch",
+  "Einwohner": ["der Myanmare", " die Myanmarin"],
+  "Code": "MM"
+}, {
+  "Land": "Namibia",
+  "Adjektiv": "namibisch",
+  "Einwohner": ["der Namibier", " die Namibierin"],
+  "Code": "NA"
+}, {
+  "Land": "Nauru",
+  "Adjektiv": "nauruisch",
+  "Einwohner": ["der Nauruer", " Nauruerin"],
+  "Code": "NR"
+}, {
+  "Land": "Nepal",
+  "Adjektiv": "nepalesisch",
+  "Einwohner": ["der Nepalese", " die Nepalesin"],
+  "Code": "NP"
+}, {
+  "Land": "Neuseeland",
+  "Adjektiv": "neuseeländisch",
+  "Einwohner": ["der Neuseeländer", " die Neuseeländerin"],
+  "Code": "NZ"
+}, {
+  "Land": "Nicaragua",
+  "Adjektiv": "nicaraguanisch",
+  "Einwohner": ["der Nicaraguaner", " Nicaraguanerin"],
+  "Code": "NI"
+}, {
+  "Land": "Niederlande (pl)",
+  "Adjektiv": "niederländisch",
+  "Einwohner": ["der Niederländer", " die Niederländerin"],
+  "Code": "NL"
+}, {
+  "Land": "Niger (-, m)",
+  "Adjektiv": "nigrisch",
+  "Einwohner": ["der Nigrer", " die Nigrerin"],
+  "Code": "NE"
+}, {
+  "Land": "Nigeria",
+  "Adjektiv": "nigerianisch",
+  "Einwohner": ["der Nigerianer", " die Nigerianerin"],
+  "Code": "NG"
+}, {
+  "Land": "Nordkorea",
+  "Adjektiv": "nordkoreanisch",
+  "Einwohner": ["der Nordkoreaner", " die Nordkoreanerin"],
+  "Code": "KP"
+}, {
+  "Land": "Norwegen",
+  "Adjektiv": "norwegisch",
+  "Einwohner": ["der Norweger", " die Norwegerin"],
+  "Code": "NO"
+}, {
+  "Land": "Oman",
+  "Adjektiv": "omanisch",
+  "Einwohner": ["der Omaner", " die Omanerin"],
+  "Code": "OM"
+}, {
+  "Land": "Österreich",
+  "Adjektiv": "österreichisch",
+  "Einwohner": ["der Österreicher", " die Österreicherin"],
+  "Code": "AT"
+}, {
+  "Land": "Pakistan",
+  "Adjektiv": "pakistanisch",
+  "Einwohner": ["der Pakistaner", " die Pakistanerin"],
+  "Code": "PK"
+}, {
+  "Land": "Palau",
+  "Adjektiv": "palauisch",
+  "Einwohner": ["der Palauer", " die Palauerin"],
+  "Code": "PW"
+}, {
+  "Land": "Panama",
+  "Adjektiv": "panamaisch",
+  "Einwohner": ["der Panamaer", " die Panamaerin"],
+  "Code": "PA"
+}, {
+  "Land": "Papua-Neuguinea",
+  "Adjektiv": "papua-neuguineisch",
+  "Einwohner": ["der Papua-Neuguineer", " die Papua-Neuguineerin"],
+  "Code": "PG"
+}, {
+  "Land": "Paraguay",
+  "Adjektiv": "paraguayisch",
+  "Einwohner": ["der Paraguayer", " die Paraguayerin"],
+  "Code": "PY"
+}, {
+  "Land": "Peru",
+  "Adjektiv": "peruanisch",
+  "Einwohner": ["der Peruaner", " Peruanerin"],
+  "Code": "PE"
+}, {
+  "Land": "Philippinen (pl)",
+  "Adjektiv": "philippinisch",
+  "Einwohner": ["der Philippiner", " die Philippinerin"],
+  "Code": "PH"
+}, {
+  "Land": "Polen",
+  "Adjektiv": "polnisch",
+  "Einwohner": ["der Pole", " die Polin"],
+  "Code": "PL"
+}, {
+  "Land": "Portugal",
+  "Adjektiv": "portugiesisch",
+  "Einwohner": ["der Portugiese", " die Portugiesin"],
+  "Code": "PT"
+}, {
+  "Land": "Puerto Rico",
+  "Adjektiv": "puerto-ricanisch",
+  "Einwohner": ["der Puerto-Ricaner", " die Puerto-Ricanerin"],
+  "Code": "PR"
+}, {
+  "Land": "Republik Kongo (f)(auch: Kongo-Brazzaville)",
+  "Adjektiv": "kongolesisch auch: … der Republik Kongo",
+  "Einwohner": ["der Kongolese", " die Kongolesin"],
+  "Code": "CG"
+}, {
+  "Land": "Ruanda",
+  "Adjektiv": "ruandisch",
+  "Einwohner": ["der Ruander", " die Ruanderin"],
+  "Code": "RW"
+}, {
+  "Land": "Rumänien",
+  "Adjektiv": "rumänisch",
+  "Einwohner": ["der Rumäne", " die Rumänin"],
+  "Code": "RO"
+}, {
+  "Land": "Russland",
+  "Adjektiv": "russisch",
+  "Einwohner": ["der Russe", " die Russin"],
+  "Code": "RU"
+}, {
+  "Land": "Salomonen (pl)",
+  "Adjektiv": "salomonisch",
+  "Einwohner": ["der Salomoner", " die Salomonerin"],
+  "Code": "sb"
+}, {
+  "Land": "Sambia",
+  "Adjektiv": "sambisch",
+  "Einwohner": ["der Sambier", " die Sambierin"],
+  "Code": "ZM"
+}, {
+  "Land": "Samoa",
+  "Adjektiv": "samoanisch",
+  "Einwohner": ["der Samoaner", " die Samoanerin"],
+  "Code": "WS"
+}, {
+  "Land": "San Marino",
+  "Adjektiv": "san-marinesisch",
+  "Einwohner": ["der San-Marinese", " die San-Marinesin"],
+  "Code": "SM"
+}, {
+  "Land": "Saudi-Arabien",
+  "Adjektiv": "saudi-arabisch",
+  "Einwohner": ["der Saudi-Araber", " die Saudi-Araberin"],
+  "Code": "SA"
+}, {
+  "Land": "Schweden",
+  "Adjektiv": "schwedisch",
+  "Einwohner": ["der Schwede", " die Schwedin"],
+  "Code": "SE"
+}, {
+  "Land": "Schweiz (f)",
+  "Adjektiv": "schweizerischauch: Schweizer …",
+  "Einwohner": ["der Schweizer", " Schweizerin"],
+  "Code": "CH"
+}, {
+  "Land": "Senegal (m)",
+  "Adjektiv": "senegalesisch",
+  "Einwohner": ["der Senegalese", " die Senegalesin"],
+  "Code": "SN"
+}, {
+  "Land": "Serbien",
+  "Adjektiv": "serbisch",
+  "Einwohner": ["der Serbe", " die Serbin"],
+  "Code": "RS"
+}, {
+  "Land": "Seychellen",
+  "Adjektiv": "seychellisch",
+  "Einwohner": ["der Seycheller", " die Seychellerin"],
+  "Code": "SC"
+}, {
+  "Land": "Sierra Leone",
+  "Adjektiv": "sierra-leonisch",
+  "Einwohner": ["der Sierra-Leoner", " die Sierra-Leonerin"],
+  "Code": "SL"
+}, {
+  "Land": "Simbabwe",
+  "Adjektiv": "simbabwisch",
+  "Einwohner": ["der Simbabwer", " die Simbabwerin"],
+  "Code": "ZW"
+}, {
+  "Land": "Singapur",
+  "Adjektiv": "singapurisch",
+  "Einwohner": ["der Singapurer", " die Singapurerin"],
+  "Code": "SG"
+}, {
+  "Land": "Slowakei (f)",
+  "Adjektiv": "slowakisch",
+  "Einwohner": ["der Slowake", " die Slowakin"],
+  "Code": "SK"
+}, {
+  "Land": "Slowenien",
+  "Adjektiv": "slowenisch",
+  "Einwohner": ["der Slowene", " die Slowenin"],
+  "Code": "SI"
+}, {
+  "Land": "Somalia",
+  "Adjektiv": "somalisch",
+  "Einwohner": ["der Somalier", " die Somalierin"],
+  "Code": "SO"
+}, {
+  "Land": "Spanien",
+  "Adjektiv": "spanisch",
+  "Einwohner": ["der Spanier", " die Spanierin"],
+  "Code": "ES"
+}, {
+  "Land": "Sri Lanka",
+  "Adjektiv": "sri-lankisch",
+  "Einwohner": ["der Sri Lanker", " die Sri Lankerinauch: Sri-Lanker(in)"],
+  "Code": "LK"
+}, {
+  "Land": "St. Kitts und Nevis",
+  "Adjektiv": "–",
+  "Einwohner": ["–"],
+  "Code": "KN"
+}, {
+  "Land": "St. Lucia",
+  "Adjektiv": "lucianisch",
+  "Einwohner": ["der Lucianer", " die Lucianerin"],
+  "Code": "LC"
+}, {
+  "Land": "St. Vincent und die Grenadinen",
+  "Adjektiv": "vincentisch",
+  "Einwohner": ["der Vincenter", " die Vincenterin"],
+  "Code": "VC"
+}, {
+  "Land": "Südafrika",
+  "Adjektiv": "südafrikanisch",
+  "Einwohner": ["der Südafrikaner", " die Südafrikanerin"],
+  "Code": "ZA"
+}, {
+  "Land": "Sudan (m)",
+  "Adjektiv": "sudanesisch",
+  "Einwohner": ["der Sudanese", " die Sudanesin"],
+  "Code": "SD"
+}, {
+  "Land": "Südkorea",
+  "Adjektiv": "südkoreanisch",
+  "Einwohner": ["der Südkoreaner", " die Südkoreanerin"],
+  "Code": "KR"
+}, {
+  "Land": "Suriname",
+  "Adjektiv": "surinamisch",
+  "Einwohner": ["der Surinamer", " die Surinamerin"],
+  "Code": "SR"
+}, {
+  "Land": "Swasiland",
+  "Adjektiv": "swasiländisch",
+  "Einwohner": ["der/die Swasiauch: Swasiländer(in)"],
+  "Code": "SZ"
+}, {
+  "Land": "Syrien",
+  "Adjektiv": "syrisch",
+  "Einwohner": ["der Syrer", " die Syrerin"],
+  "Code": "SY"
+}, {
+  "Land": "São Tomé und Príncipe",
+  "Adjektiv": "são-toméisch",
+  "Einwohner": ["der São Toméer", " die São Toméerin"],
+  "Code": "ST"
+}, {
+  "Land": "Tadschikistan",
+  "Adjektiv": "tadschikisch",
+  "Einwohner": ["der Tadschike", " die Tadschikin"],
+  "Code": "TJ"
+}, {
+  "Land": "Taiwan",
+  "Adjektiv": "taiwanischauch: taiwanesisch",
+  "Einwohner": ["der Taiwaner", " die Taiwanerinauch: Taiwanese", " Taiwanesin"],
+  "Code": "TW"
+}, {
+  "Land": "Tansania",
+  "Adjektiv": "tansanisch",
+  "Einwohner": ["der Tansanier", " die Tansanierin"],
+  "Code": "TZ"
+}, {
+  "Land": "Thailand",
+  "Adjektiv": "thailändisch",
+  "Einwohner": ["der Thailänder", " die Thailänderin"],
+  "Code": "TH"
+}, {
+  "Land": "Timor-Lesteauch: Osttimor",
+  "Adjektiv": "timoresischseltener auch: timorisch",
+  "Einwohner": ["der Timorese", " die Timoresinseltener auch: Timorer(in)"],
+  "Code": "TL"
+}, {
+  "Land": "Togo",
+  "Adjektiv": "togoisch",
+  "Einwohner": ["der Togoer", " die Togoerin"],
+  "Code": "TG"
+}, {
+  "Land": "Tonga",
+  "Adjektiv": "tongaisch",
+  "Einwohner": ["der Tongaer", " die Tongaerin"],
+  "Code": "TO"
+}, {
+  "Land": "Trinidad und Tobago",
+  "Adjektiv": "–",
+  "Einwohner": ["–"],
+  "Code": "TT"
+}, {
+  "Land": "Tschad (-, m)",
+  "Adjektiv": "tschadisch",
+  "Einwohner": ["der Tschader", " die Tschaderin"],
+  "Code": "TD"
+}, {
+  "Land": "Tschechische Republik (f) (aber: Tschechien)",
+  "Adjektiv": "tschechisch",
+  "Einwohner": ["der Tscheche", " die Tschechin"],
+  "Code": "CZ"
+}, {
+  "Land": "Tunesien",
+  "Adjektiv": "tunesisch",
+  "Einwohner": ["der Tunesier", " die Tunesierin"],
+  "Code": "TN"
+}, {
+  "Land": "Türkei (f)",
+  "Adjektiv": "türkisch",
+  "Einwohner": ["der Türke", " die Türkin"],
+  "Code": "TR"
+}, {
+  "Land": "Turkmenistan",
+  "Adjektiv": "turkmenisch",
+  "Einwohner": ["der Turkmene", " die Turkmenin"],
+  "Code": "TM"
+}, {
+  "Land": "Tuvalu",
+  "Adjektiv": "tuvaluisch",
+  "Einwohner": ["der Tuvaluer", " die Tuvaluerin"],
+  "Code": "TV"
+}, {
+  "Land": "Uganda",
+  "Adjektiv": "ugandisch",
+  "Einwohner": ["der Ugander", " die Uganderin"],
+  "Code": "UG"
+}, {
+  "Land": "Ukraine (f)",
+  "Adjektiv": "ukrainisch",
+  "Einwohner": ["der Ukrainer", " die Ukrainerin"],
+  "Code": "UA"
+}, {
+  "Land": "Ungarn",
+  "Adjektiv": "ungarisch",
+  "Einwohner": ["der Ungar", " die Ungarin"],
+  "Code": "HU"
+}, {
+  "Land": "Uruguay",
+  "Adjektiv": "uruguayisch",
+  "Einwohner": ["der Uruguayer", " die Uruguayerin"],
+  "Code": "UY"
+}, {
+  "Land": "USA (pl)Vereinigte Staaten von Amerika (pl)",
+  "Adjektiv": "amerikanischauch: US-amerikanisch",
+  "Einwohner": ["der Amerikaner", " die Amerikanerinauch: US-Amerikaner(in)"],
+  "Code": "US"
+}, {
+  "Land": "Usbekistan",
+  "Adjektiv": "usbekisch",
+  "Einwohner": ["der Usbeke", " die Usbekin"],
+  "Code": "UZ"
+}, {
+  "Land": "Vanuatu",
+  "Adjektiv": "vanuatuisch",
+  "Einwohner": ["der Vanuatuer", " die Vanuatuerin"],
+  "Code": "VU"
+}, {
+  "Land": "Vatikanstadt",
+  "Adjektiv": "vatikanisch",
+  "Einwohner": ["–"],
+  "Code": "VA"
+}, {
+  "Land": "Venezuela",
+  "Adjektiv": "venezolanisch",
+  "Einwohner": ["der Venezolaner", " die Venezolanerin"],
+  "Code": "VE"
+}, {
+  "Land": "Vereinigte Arabische Emirate (pl)",
+  "Adjektiv": "–",
+  "Einwohner": ["–"],
+  "Code": "AE"
+}, {
+  "Land": "Vietnam",
+  "Adjektiv": "vietnamesisch",
+  "Einwohner": ["der Vietnamese", " die Vietnamesin"],
+  "Code": "VN"
+}, {
+  "Land": "Weißrussland",
+  "Adjektiv": "weißrussisch auch: belarussisch",
+  "Einwohner": ["der Weißrusse", " die Weißrussin auch: der Belarusse", " die Belarussin"],
+  "Code": "BY"
+}, {
+  "Land": "Zentralafrikanische Republik (f)",
+  "Adjektiv": "zentralafrikanisch",
+  "Einwohner": ["der Zentralafrikaner", " die Zentralafrikanerin"],
+  "Code": "CF"
+}, {
+  "Land": "Zypern",
+  "Adjektiv": "zyprisch",
+  "Einwohner": ["der Zyprer", " die Zyprerinauch: Zypriot(in)", " Zyprier(in)"],
+  "Code": "CY"
+}]
